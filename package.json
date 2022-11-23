@@ -1,6 +1,6 @@
 {
   "name": "blackduck-rest-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A rest API for BlackDuck",
   "main": "dist/index.js",
   "scripts": {
